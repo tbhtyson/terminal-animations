@@ -1,2 +1,2 @@
-# terminal-animations
-example programs that print animations to the terminal
+# terminal-games
+games for the mac/linux terminal
